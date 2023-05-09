@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/xs">
+        <file>men.png</file>
+        <file>shield.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>delete_table.svg</file>
+        <file>delete-table-row.svg</file>
+        <file>document-save.svg</file>
+        <file>insert-table-row.svg</file>
+        <file>list-add-user.svg</file>
+        <file>password-generate.svg</file>
+        <file>system-switch-user.svg</file>
+        <file>view-refresh.svg</file>
+        <file>insert-table.svg</file>
+        <file>document-export.svg</file>
+        <file>document-import.svg</file>
+        <file>network-server-database.svg</file>
+        <file>qtcreator.svg</file>
+        <file>list-remove-user.svg</file>
+        <file>table.svg</file>
+    </qresource>
+</RCC>

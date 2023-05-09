@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Categories=Tools;System;Qt;
+Comment[it_IT]=Un gestore di sicurezza informatica che protegge i tuoi segreti
+Comment[en]=A security manager protecting your secrets
+Exec=Stronghold %u
+GenericName[it_IT]=Gestore di Password
+GenericName=Password Manager
+Icon=/usr/share/xsoftware/Stronghold/shield.png
+Keywords=Secure Communication;Password Manager;
+Name=Stronghold
+StartupNotify=false
+Terminal=false
+Type=Application
+Version=0.10
